@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+{% include base_path %}
+
 I am Junteng Liu, a first-year PhD candidate at the HKUST NLP Group, advised by Prof. Junxian He. I graduated from Shanghai Jiao Tong University in June 2024. My research focuses on natural language processing and machine learning.
 
 Research Interests
