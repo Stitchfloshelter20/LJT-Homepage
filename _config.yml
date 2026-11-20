@@ -31,6 +31,10 @@ talkmap_link: false
 
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+include:
+  - .htaccess
+  - _pages
+  - files
 markdown: kramdown
 highlighter: rouge
 lsi: false
